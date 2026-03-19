@@ -16,10 +16,10 @@ QTY protein analog structures are predicted using the AlphaFold 3 Server v3.0.1.
 prediction is run in the monomer mode, using the server’s default MSA generation and recycle
 settings. Each prediction is run with one random seed:
 
-* NOX1 = 453988508;
-* NOX2 = 538244697;
-* NOX3 = 893773482;
-* NOX4 = 558759908;
+* NOX1 = 740489916;
+* NOX2 = 153345029;
+* NOX3 = 1088284846;
+* NOX4 = 2115711105;
 * NOX5 = 1970948703;
 * DUOX1 = 1666590488;
 * DUOXA1 = 393896960;
